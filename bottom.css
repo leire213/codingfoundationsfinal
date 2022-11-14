@@ -1,0 +1,19 @@
+.bottom {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(57, 57, 57);
+    color: white;
+    font-size: 0.75em;
+} 
+
+.bottom button {
+    width: 100%;
+    height: 100%;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 2.5em;
+    color: white;
+    background-color: transparent;
+    padding: 20px;
+    border: 0.5px solid white;
+}
